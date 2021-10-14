@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="total_bill_label">Bill Total:</string>
+    <string name="total_bill_hint">Enter Bill Value</string>
+    <string name="tip_label">Tip % :</string>
+    <string name="label_10">10%</string>
+    <string name="label_18">18%</string>
+    <string name="label_15">15%</string>
+    <string name="custom_label_radio">Custom</string>
+    <string name="custom_label">Custom:</string>
+    <string name="label_20">20%</string>
+    <string name="tip_number_label">Tip :</string>
+    <string name="total_number_label">Total :</string>
+    <string name="empty_string"></string>
+    <string name="exit_button">Exit</string>
+    <string name="Toast_Empty_input">Error: Please Enter Total Bill Amount!</string>
+</resources>
