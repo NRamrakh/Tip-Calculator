@@ -3,7 +3,7 @@
 
 This is an anroid application. It lets user calculate the tip based on the total bill value. The app gives default tip options along with the custom tip seekbar that lets the user customize tip.
 
-**Framework used:** Android studio 
+**IDE used:** Android Studio 
 
 **Languages used:** Xml, Java
 
